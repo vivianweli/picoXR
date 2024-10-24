@@ -5,6 +5,8 @@ We have three exhibits in our science fair: chemistry, biology, physics.
 - We implemented virtual navigation by touch pad using gliding/flying metaphor
 - We implemented hand manipulation with ray casting at a close offfset
 ## Chemistry: a volcanic eruption
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/c8e83c86-b393-4b5d-a0f3-029b000ee258">
+
 - We demonstrate a reactive reaction between baking soda and vinegar in the form of a volcanic eruption.
 - We used 3D TextMeshPro to display the title, instruction, and label on the table.
 - Users click on the cup containing vinegar to trigger the pouring (particles flowing out simulation) and movement effect (cup is raised, tilted forward and back, and returned to the table). The level of vinegar is also visually decreased after pouring.
@@ -13,6 +15,8 @@ We have three exhibits in our science fair: chemistry, biology, physics.
 - When user clicks on the beige pillar to reset the exhibit, the audio and particle eruption deactivies and stops, vinegar level is reset, and baking soda reappears.
 
 ## Biology: plant growth
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/ea80f737-3392-4f67-b84d-d9219c2124f8">
+
 - We demonstrate the process of plant growth using the need for light and water.
 - We used 3D TextMeshPro to display the title, instruction, and label on the table.
 - Users turn on the light by clicking on the lamp base, which uses a spotlight. The light will automatically turn off after 15 seconds.
@@ -22,6 +26,8 @@ We have three exhibits in our science fair: chemistry, biology, physics.
 - Finally, users can click the beige pillar to reset the exhibit.
 
 ## Physics: buoyancy
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/9ff3faa1-76c2-496b-9303-4ad4ed962065">
+
 - We demonstrate a buoyancy experiment using eggs and liquids of different densities.
 - We used 3D TextMeshPro to display the title, instruction, and label on the table.
 - Users can grab and drop the egg into each container containing a different liquid (water, salt water, sugar water).
