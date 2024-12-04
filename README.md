@@ -1,6 +1,7 @@
 # picoVR
 **Group Members**: Vivian LI, Xintian FU\
 We have three exhibits in our science fair: chemistry, biology, physics.
+Unity version: 2020.3.34f1
 ## General
 - We implemented virtual navigation by touch pad using gliding/flying metaphor
 - We implemented hand manipulation with ray casting at a close offfset
