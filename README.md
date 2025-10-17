@@ -1,4 +1,5 @@
 # picoVR
+**Video Link**: https://youtu.be/jmiC_r5zTPU
 **Group Members**: Vivian LI, Xintian FU\
 We have three exhibits in our science fair: chemistry, biology, physics.
 Unity version: 2020.3.34f1
